@@ -44,8 +44,6 @@ Thinking about all those challanges that not just affect beginners but also vete
 
 # Assembly
 
-![image](res/material.jpg)
-
 ## Legs
 To minimize costs and maximize overall body stability, each leg resemblances an upside down right triangle. Break one wooden popsicle stick into two same size parts, pick another entire stick and finally, glue them togheter enough to make a rigid structure.
 
